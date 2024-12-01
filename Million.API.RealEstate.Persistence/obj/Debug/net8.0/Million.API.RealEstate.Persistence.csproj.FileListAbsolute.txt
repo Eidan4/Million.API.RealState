@@ -1,0 +1,17 @@
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.csproj.AssemblyReference.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.AssemblyInfo.cs
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Persistence.deps.json
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Persistence.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Persistence.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Application.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Domain.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Application.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\bin\Debug\net8.0\Million.API.RealEstate.Domain.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million..BDDF59BF.Up2Date
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\refint\Million.API.RealEstate.Persistence.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\Million.API.RealEstate.Persistence.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Persistence\obj\Debug\net8.0\ref\Million.API.RealEstate.Persistence.dll

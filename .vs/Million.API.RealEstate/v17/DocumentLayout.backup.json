@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eidan\\Documents\\Million.API.RealEstate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EABED9C-CCF8-48C3-A4B0-D325CD9160DE}|Million.API.RealEstate.Test\\Million.API.RealEstate.Test.csproj|c:\\users\\eidan\\documents\\million.api.realestate\\million.api.realestate.test\\application\\feature\\propertytrace\\handlers\\updatepropertytracecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EABED9C-CCF8-48C3-A4B0-D325CD9160DE}|Million.API.RealEstate.Test\\Million.API.RealEstate.Test.csproj|solutionrelative:million.api.realestate.test\\application\\feature\\propertytrace\\handlers\\updatepropertytracecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EABED9C-CCF8-48C3-A4B0-D325CD9160DE}|Million.API.RealEstate.Test\\Million.API.RealEstate.Test.csproj|c:\\users\\eidan\\documents\\million.api.realestate\\million.api.realestate.test\\application\\feature\\propertyimage\\handlers\\updatepropertyimagecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EABED9C-CCF8-48C3-A4B0-D325CD9160DE}|Million.API.RealEstate.Test\\Million.API.RealEstate.Test.csproj|solutionrelative:million.api.realestate.test\\application\\feature\\propertyimage\\handlers\\updatepropertyimagecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdatePropertyImageCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\eidan\\Documents\\Million.API.RealEstate\\Million.API.RealEstate.Test\\Application\\Feature\\PropertyImage\\Handlers\\UpdatePropertyImageCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Million.API.RealEstate.Test\\Application\\Feature\\PropertyImage\\Handlers\\UpdatePropertyImageCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\eidan\\Documents\\Million.API.RealEstate\\Million.API.RealEstate.Test\\Application\\Feature\\PropertyImage\\Handlers\\UpdatePropertyImageCommandHandlerTests.cs",
+              "RelativeToolTip": "Million.API.RealEstate.Test\\Application\\Feature\\PropertyImage\\Handlers\\UpdatePropertyImageCommandHandlerTests.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:15:02.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 179,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePropertyTraceCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\eidan\\Documents\\Million.API.RealEstate\\Million.API.RealEstate.Test\\Application\\Feature\\PropertyTrace\\Handlers\\UpdatePropertyTraceCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "Million.API.RealEstate.Test\\Application\\Feature\\PropertyTrace\\Handlers\\UpdatePropertyTraceCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\eidan\\Documents\\Million.API.RealEstate\\Million.API.RealEstate.Test\\Application\\Feature\\PropertyTrace\\Handlers\\UpdatePropertyTraceCommandHandlerTests.cs",
+              "RelativeToolTip": "Million.API.RealEstate.Test\\Application\\Feature\\PropertyTrace\\Handlers\\UpdatePropertyTraceCommandHandlerTests.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwGUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T03:17:18.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

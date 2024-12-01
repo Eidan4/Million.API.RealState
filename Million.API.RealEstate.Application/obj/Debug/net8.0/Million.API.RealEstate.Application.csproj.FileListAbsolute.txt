@@ -1,0 +1,15 @@
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.csproj.AssemblyReference.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.AssemblyInfo.cs
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\bin\Debug\net8.0\Million.API.RealEstate.Application.deps.json
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\bin\Debug\net8.0\Million.API.RealEstate.Application.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\bin\Debug\net8.0\Million.API.RealEstate.Application.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\bin\Debug\net8.0\Million.API.RealEstate.Domain.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\bin\Debug\net8.0\Million.API.RealEstate.Domain.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million..35B45C2B.Up2Date
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\refint\Million.API.RealEstate.Application.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\Million.API.RealEstate.Application.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Application\obj\Debug\net8.0\ref\Million.API.RealEstate.Application.dll

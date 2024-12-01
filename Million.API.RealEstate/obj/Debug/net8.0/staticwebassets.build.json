@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6hS+bu5unYXH+xwlmYTF1kRLpB+yx0dePcLU41xlIvk=",
+  "Source": "Million.API.RealEstate",
+  "BasePath": "_content/Million.API.RealEstate",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

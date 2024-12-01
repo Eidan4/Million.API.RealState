@@ -1,0 +1,12 @@
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\bin\Debug\net8.0\Million.API.RealEstate.Domain.deps.json
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\bin\Debug\net8.0\Million.API.RealEstate.Domain.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\bin\Debug\net8.0\Million.API.RealEstate.Domain.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.csproj.AssemblyReference.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.AssemblyInfoInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.AssemblyInfo.cs
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\refint\Million.API.RealEstate.Domain.dll
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\Million.API.RealEstate.Domain.pdb
+C:\Users\eidan\Documents\Million.API.RealEstate\Million.API.RealEstate.Domain\obj\Debug\net8.0\ref\Million.API.RealEstate.Domain.dll

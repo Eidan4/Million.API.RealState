@@ -1,0 +1,6 @@
+@Million.API.RealEstate_HostAddress = http://localhost:5140
+
+GET {{Million.API.RealEstate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
